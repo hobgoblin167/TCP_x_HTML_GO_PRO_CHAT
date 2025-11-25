@@ -13,7 +13,7 @@ var messages string
 
 func main() {
 	fmt.Println("Сервер запущен")
-	//go TcpConnection()
+	go TcpConnection()
 	HTMLConnection()
 
 }
