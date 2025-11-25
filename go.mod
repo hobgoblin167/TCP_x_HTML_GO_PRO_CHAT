@@ -1,0 +1,3 @@
+module tcp-chat-app
+
+go 1.21
